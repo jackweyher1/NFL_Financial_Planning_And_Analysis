@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+ipykernel
+seaborn
+scikit-learn
+imbalanced-learn
+pyarrow
